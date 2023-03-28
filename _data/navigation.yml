@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Docs"
+    url: /welcome-micc/
+
+  - title: "Advanced"
+    url: /advanced-micc/    
+
+  - title: "Projects"
+    url: /projects/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
